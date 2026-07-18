@@ -1,11 +1,10 @@
 /* Body */
 @media (max-width: 768px) {
 body {
-background: url('https://images.pexels.com/photos/38135062/pexels-photo-38135062.jpeg') center center fixed !important;
-background-repeat: no-repeat;
-background-size: 100%;
-width: auto !important;
-min-width: 600px !important;
+background: url('https://images.pexels.com/photos/38135062/pexels-photo-38135062.jpeg') no-repeat center center fixed;
+background-size: cover;
+}
+
 }
 }
 
